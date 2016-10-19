@@ -1,0 +1,8 @@
+Cache/
+Index/
+Local/
+.DS_Store
+
+*cache/
+*last-run
+*backrefs/

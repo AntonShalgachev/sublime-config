@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Compare Side-By-Side",
+		"Package Control",
+		"PackageResourceViewer",
+		"Theme - Flatland"
+	]
+}
